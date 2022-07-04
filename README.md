@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Anna.+;Frontend+developer+from+Russia.)](https://git.io/typing-svg)
 
-## 🛠️ My current stack: 
+## 🛠️ Technologies and tools: 
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=2965f1)
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS)
