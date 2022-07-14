@@ -11,6 +11,7 @@
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![ReactRouter](https://img.shields.io/badge/React_Router-black?style=for-the-badge&logo=reactrouter)
 ![Webpack](https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=webpack)
+![MobX](https://img.shields.io/badge/mobx-black?style=for-the-badge&logo=mobx)
 ![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 ![Trello](https://img.shields.io/badge/Trello-black?style=for-the-badge&logo=Trello)
