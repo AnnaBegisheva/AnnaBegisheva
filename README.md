@@ -20,11 +20,13 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnnaBegisheva&theme=cobalt)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnnaBegisheva&theme=cobalt&bg_color=09131B&show_icons=true)
 
+
+<!--
+
 ## 📲 Contact me:
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/p_anic)
 [![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anna-begisheva-691bb4104/)
 
-<!--
 **AnnaBegisheva/AnnaBegisheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
