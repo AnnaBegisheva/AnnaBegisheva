@@ -1,6 +1,6 @@
-## Hello, guys! 🖐🏻
+## Hello, everybody! 🖐🏻
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Anna.+;Frontend+developer+from+Russia.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Anna.+;And+here+I+explore+Frontend+world.)](https://git.io/typing-svg)
 
 ## 🛠️ Technologies and tools: 
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
